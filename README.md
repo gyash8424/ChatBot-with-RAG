@@ -25,9 +25,9 @@ This project aims to create such a QnA chatbot which can be used by diffrent use
 - **Vector Database:** ChromaDB
 
 ## Resouces Used
-This chatbot is trained on a well known medical journal :The Gale Encyclopedia of Medicine, second eddition
-Embedding model used: sentence-transformers/all-MiniLM-L6-v2 (available on huggingface)
-Large Language Model used: llama-2-7b-chat.ggmlv3.q5_0.bin (available on huggingface)
+- This chatbot is trained on a well known medical journal :The Gale Encyclopedia of Medicine, second eddition
+- Embedding model used: sentence-transformers/all-MiniLM-L6-v2 (available on huggingface)
+- Large Language Model used: llama-2-7b-chat.ggmlv3.q5_0.bin (available on huggingface)
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/e9b0dd63-c5c1-4167-847f-959ca4bd1512)
