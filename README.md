@@ -5,7 +5,8 @@
 2. [Motivation](#motivation)
 3. [Frameworks and Technologies Used](#frameworks-and-technologies-used)
 4. [Resouces Used](#resources-used)
-5. [Screenshots](#screenshots)
+5. [Project Architecture](#project-architecture)
+6. [Screenshots](#screenshots)
 
 
 ---
@@ -28,6 +29,9 @@ This project aims to create such a QnA chatbot which can be used by diffrent use
 - This chatbot is trained on a well known medical journal :The Gale Encyclopedia of Medicine, second eddition
 - Embedding model used: sentence-transformers/all-MiniLM-L6-v2 (available on huggingface)
 - Large Language Model used: llama-2-7b-chat.ggmlv3.q5_0.bin (available on huggingface)
+
+## Project Architecture
+![ChatBot-Architecture](https://github.com/user-attachments/assets/9691cc41-f5a0-45e1-ac5e-8d419953ef62)
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/e9b0dd63-c5c1-4167-847f-959ca4bd1512)
