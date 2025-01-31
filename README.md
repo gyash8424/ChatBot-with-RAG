@@ -21,7 +21,7 @@ This project aims to create such a QnA chatbot which can be used by diffrent use
 ## Frameworks and Technologies Used
 - **Languages:** Python, HTML
 - **AI Framework:** Langchain
-- **Frontend:** Flask
+- **BackEnd:** Flask
 - **LLM:** Llama2
 - **Vector Database:** ChromaDB
 
